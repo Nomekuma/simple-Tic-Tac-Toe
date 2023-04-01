@@ -1,4 +1,8 @@
 # simple-Tic-Tac-Toe using python
+# How to run
+```
+python game.py
+```
 
 <img width="231" alt="screenshot" src="https://user-images.githubusercontent.com/122863540/229170340-1094f544-fec1-43e9-a8e8-3ceb348f961b.png">
 
